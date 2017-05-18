@@ -4,6 +4,7 @@
   "description": "Pull git repositories",
   "main": "script.js",
   "dependencies": {
+    "async": "^2.4.0",
     "simple-git": "^1.72.0"
   },
   "devDependencies": {},
